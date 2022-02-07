@@ -5,10 +5,16 @@ This is a weather app containing an API linked to openweathermap.org
 # URLS to my work
 
 Github Repo: https://github.com/kishan254/my-weather-app
-Github Live: 
+
+Github Live: https://kishan254.github.io/my-weather-app/
+
+
 
 # Screenshot of how the app looks
 
+![one](images/weatherOne.png)
+![two](images/weatherTwo.png)
+![three](images/weatherThree.png)
 
 # additional notes
 
