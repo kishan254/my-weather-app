@@ -19,29 +19,29 @@ Github Live: https://kishan254.github.io/my-weather-app/
 
 ## Technology
 
-HTML
-API Routes
-Javascript
-Local Storage
+- HTML
+- API Routes
+- Javascript
+- Local Storage
 
 ## Usage
 
 In order to use this app, you will need to understand the following;
 
-HTML
-API Routes
-Javascript
-Local Storage
+- HTML
+- API Routes
+- Javascript
+- Local Storage
 
 
 ## Contribute
 
 In order to contribute to this app, you will need to understand the following;
 
-HTML
-API Routes
-Javascript
-Local Storage
+- HTML
+- API Routes
+- Javascript
+- Local Storage
 
 ## Questions
 
