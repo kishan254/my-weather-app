@@ -1,6 +1,9 @@
 # my-weather-app
 This is a weather app containing an API linked to openweathermap.org
 
+Search any city and get to the wind, temperature, humidity and UV Index
+
+Give it a try now
 
 # URLS to my work
 
@@ -8,18 +11,44 @@ Github Repo: https://github.com/kishan254/my-weather-app
 
 Github Live: https://kishan254.github.io/my-weather-app/
 
-
-
 # Screenshot of how the app looks
 
 ![one](images/weatherOne.png)
 ![two](images/weatherTwo.png)
 ![three](images/weatherThree.png)
 
-# additional notes
+## Technology
 
-Due to my work commitments I have not been able to fully complete this app, in-which I have to input local storage and a method where user can save the cities for future use
+HTML
+API Routes
+Javascript
+Local Storage
 
-If you have any suggestions pleae do so by commenting
+## Usage
 
-Thank you
+In order to use this app, you will need to understand the following;
+
+HTML
+API Routes
+Javascript
+Local Storage
+
+
+## Contribute
+
+In order to contribute to this app, you will need to understand the following;
+
+HTML
+API Routes
+Javascript
+Local Storage
+
+## Questions
+
+Please click the links below
+
+[Github] (https://github.com/kishan254)
+
+Write me on;
+
+[Email] (kishan.gosrani@hotmail.com)

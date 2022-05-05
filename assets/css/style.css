@@ -1,0 +1,20 @@
+#recentList {
+  list-style: none;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+}
+
+.eachDayColor {
+  background: rgb(53, 131, 233);
+  padding: 10px;
+  color: white;
+  margin: 10px;
+}
+
+li {
+  border-bottom: 1px solid gray;
+  padding: 10px;
+}
